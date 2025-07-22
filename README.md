@@ -60,6 +60,6 @@ Este repositório reúne minha experiência prática no desafio de **configurar 
 
 ## ✍️ Autor
 
-Desafio concluído por **[Seu Nome Aqui]**  
+Desafio concluído por Tainá Corrêa
 Bootcamp Microsoft Azure – DIO.me  
 
